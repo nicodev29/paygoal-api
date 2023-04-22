@@ -16,3 +16,5 @@ ApiRest - Productos
    en este caso una H2, de la siguiente forma:
 * usuario y password = prueba
 * server.port = 8080
+
+3) Dentro de la carpeta postman collection, encontraran el JSON para ejecutar las solicitudes a los endpoints.
